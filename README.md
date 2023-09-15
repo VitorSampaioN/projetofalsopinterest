@@ -1,8 +1,12 @@
 Projeto de Criação de Site - Fake Pinterest
 
-> Linguagem de Programação utilizada:
+> Linguagens de Programação utilizadas:
 - Python 3.10
 - Javascript
+
+> Linguagens de Marcação e Design utilizadas:
+- HTML 5
+- CSS 3
 
 > Bibliotecas utilizadas:
 - Flask
